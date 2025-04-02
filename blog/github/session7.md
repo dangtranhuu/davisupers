@@ -3,7 +3,7 @@
 # Bài 7 Viết commits chuyên nghiệp
 
 
-<img src="https://github.com/dangtranhuu/images/blob/main/angurvad/github/sesstion7/list/1.png?raw=true" alt="Image 1" style="width:500px; height:50%;">
+<img src="https://github.com/theanishtar/images/blob/main/angurvad/github/sesstion7/list/1.png?raw=true" alt="Image 1" style="width:500px; height:50%;">
 
 :::details <b>Nội dung chính</b>
 
@@ -11,25 +11,25 @@
 
 <div class="scroll" style="width: 100%; overflow-x: auto; white-space: nowrap;">
   <div style="display: inline-block; margin-right: 15px;">
-    <img src="https://github.com/dangtranhuu/images/blob/main/angurvad/github/sesstion7/list/1.png?raw=true" alt="Image 1" style="width:500px; height:50%;object-fit: cover; margin:0px;">
+    <img src="https://github.com/theanishtar/images/blob/main/angurvad/github/sesstion7/list/1.png?raw=true" alt="Image 1" style="width:500px; height:50%;object-fit: cover; margin:0px;">
   </div>
   <div style="display: inline-block; margin-right: 15px;">
-    <img src="https://github.com/dangtranhuu/images/blob/main/angurvad/github/sesstion7/list/2.png?raw=true" alt="Image 2" style="width:500px; height:50%;object-fit: cover; margin:0px;">
+    <img src="https://github.com/theanishtar/images/blob/main/angurvad/github/sesstion7/list/2.png?raw=true" alt="Image 2" style="width:500px; height:50%;object-fit: cover; margin:0px;">
   </div>
   <div style="display: inline-block; margin-right: 15px;">
-    <img src="https://github.com/dangtranhuu/images/blob/main/angurvad/github/sesstion7/list/3.png?raw=true" alt="Image 3" style="width:500px; height:50%;object-fit: cover; margin:0px;">
+    <img src="https://github.com/theanishtar/images/blob/main/angurvad/github/sesstion7/list/3.png?raw=true" alt="Image 3" style="width:500px; height:50%;object-fit: cover; margin:0px;">
   </div>
   <div style="display: inline-block; margin-right: 15px;">
-    <img src="https://github.com/dangtranhuu/images/blob/main/angurvad/github/sesstion7/list/4.png?raw=true" alt="Image 1" style="width:500px; height:50%;object-fit: cover; margin:0px;">
+    <img src="https://github.com/theanishtar/images/blob/main/angurvad/github/sesstion7/list/4.png?raw=true" alt="Image 1" style="width:500px; height:50%;object-fit: cover; margin:0px;">
   </div>
   <div style="display: inline-block; margin-right: 15px;">
-    <img src="https://github.com/dangtranhuu/images/blob/main/angurvad/github/sesstion7/list/5.png?raw=true" alt="Image 1" style="width:500px; height:50%;object-fit: cover; margin:0px;">
+    <img src="https://github.com/theanishtar/images/blob/main/angurvad/github/sesstion7/list/5.png?raw=true" alt="Image 1" style="width:500px; height:50%;object-fit: cover; margin:0px;">
   </div>
   <div style="display: inline-block; margin-right: 15px;">
-    <img src="https://github.com/dangtranhuu/images/blob/main/angurvad/github/sesstion7/list/6.png?raw=true" alt="Image 1" style="width:500px; height:50%;object-fit: cover; margin:0px;">
+    <img src="https://github.com/theanishtar/images/blob/main/angurvad/github/sesstion7/list/6.png?raw=true" alt="Image 1" style="width:500px; height:50%;object-fit: cover; margin:0px;">
   </div>
   <div style="display: inline-block; margin-right: 15px;">
-    <img src="https://github.com/dangtranhuu/images/blob/main/angurvad/github/sesstion7/list/7.png?raw=true" alt="Image 1" style="width:500px; height:50%;object-fit: cover; margin:0px;">
+    <img src="https://github.com/theanishtar/images/blob/main/angurvad/github/sesstion7/list/7.png?raw=true" alt="Image 1" style="width:500px; height:50%;object-fit: cover; margin:0px;">
   </div>
   <!-- Add more slides as needed -->
 </div>
@@ -47,11 +47,11 @@ Và rồi anh ta lên mạng tìm mọi cách để có thể cải thiện đư
 Chúng ta ở thế hệ đi sau, có rất nhiều người cạnh tranh với bạn... Nếu bạn còn không cải thiện bản thân thì sẽ đánh mất khá nhiều cơ hội đấy !!!
 
 Hãy xem hình sau đây và xem nó có phản ánh đúng về bạn không nhé, nếu là bạn thì bài viết này là dành cho bạn đấy
-![](https://github.com/dangtranhuu/images/blob/main/angurvad/github/sesstion7/commits-bad.png?raw=true)
+![](https://github.com/theanishtar/images/blob/main/angurvad/github/sesstion7/commits-bad.png?raw=true)
 
 Khi đọc xong bài viết này, đây là kết quả mà bạn đạt được
 
-![](https://github.com/dangtranhuu/images/blob/main/angurvad/github/sesstion7/commit-good.png?raw=true)
+![](https://github.com/theanishtar/images/blob/main/angurvad/github/sesstion7/commit-good.png?raw=true)
 
 
 Hãy cùng cem bài viết sau đây để cải thiện commit của mình, giúp nó Clean và Pro hơn nhé !!!

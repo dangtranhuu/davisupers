@@ -16,14 +16,14 @@ Bạn có thể tạo một nhánh mới bằng lệnh sau:
 git branch <tên_nhánh>
 ```
 
-![Tạo repo GitHub](https://github.com/dangtranhuu/images/blob/main/angurvad/github/session5/pic1.png?raw=true)
+![Tạo repo GitHub](https://github.com/theanishtar/images/blob/main/angurvad/github/session5/pic1.png?raw=true)
 
 Xem danh sách các nhánh bằng lệnh: 
 ```bash
 git branch
 ```
 
-![Tạo repo GitHub](https://github.com/dangtranhuu/images/blob/main/angurvad/github/session5/pic2.png?raw=true)
+![Tạo repo GitHub](https://github.com/theanishtar/images/blob/main/angurvad/github/session5/pic2.png?raw=true)
 
 ## Di chuyển qua lại giữa các nhánh
 
@@ -39,11 +39,11 @@ Sau đó thao tác add, commit để thêm code.
 
 Lưu ý: sử dụng lệnh `git push origin <tên nhánh>` để đẩy code lên đúng nhánh
 
-![Tạo repo GitHub](https://github.com/dangtranhuu/images/blob/main/angurvad/github/session5/pic3.png?raw=true)
+![Tạo repo GitHub](https://github.com/theanishtar/images/blob/main/angurvad/github/session5/pic3.png?raw=true)
 
 Sơ đồ git sau khi tiến hành tạo nhánh
 
-![Tạo repo GitHub](https://github.com/dangtranhuu/images/blob/main/angurvad/github/session5/pic4.png?raw=true)
+![Tạo repo GitHub](https://github.com/theanishtar/images/blob/main/angurvad/github/session5/pic4.png?raw=true)
 
 ## Gộp nhánh
 
@@ -54,13 +54,13 @@ Việc tạo ra nhiều nhánh trong thời gian dài sẽ khó quản lí, vì 
 git merge <tên_nhánh_gộp>
 ```
 
-![Tạo repo GitHub](https://github.com/dangtranhuu/images/blob/main/angurvad/github/session5/pic5.png?raw=true)
+![Tạo repo GitHub](https://github.com/theanishtar/images/blob/main/angurvad/github/session5/pic5.png?raw=true)
 
 Với trường hợp trên, ta đang thực hiện gộp nhánh có tên `nhanh-moi` vào trong nhánh `main` (main sẽ chứa toàn bộ code của nhanh-moi)
 
 Sơ đồ git sau khi gộp nhánh
 
-![Tạo repo GitHub](https://github.com/dangtranhuu/images/blob/main/angurvad/github/session5/pic6.png?raw=true)
+![Tạo repo GitHub](https://github.com/theanishtar/images/blob/main/angurvad/github/session5/pic6.png?raw=true)
 
 
 ## Xóa nhánh
@@ -79,7 +79,7 @@ git branch –d <tên_nhánh>
 :::
 
 
-![Tạo repo GitHub](https://github.com/dangtranhuu/images/blob/main/angurvad/github/session5/pic7.png?raw=true)
+![Tạo repo GitHub](https://github.com/theanishtar/images/blob/main/angurvad/github/session5/pic7.png?raw=true)
 
 Thao tác với nhánh cần phải nắm vững các lệnh vì rất dễ xảy ra xung đột (conflict) trong quá trình gộp nhánh
 

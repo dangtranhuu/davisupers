@@ -28,16 +28,16 @@ Tóm lại :
 
 **Bước 1: Truy cập [Git](https://git-scm.com/downloads) để cài đặt phiên bản tương thích với máy bạn**
 
-![Tải Git](https://github.com/dangtranhuu/images/blob/main/angurvad/github/session1/downloadgit.png?raw=true)
+![Tải Git](https://github.com/theanishtar/images/blob/main/angurvad/github/session1/downloadgit.png?raw=true)
 
 **Bước 2: Cài đặt phần mềm vào máy**
 
-![Cài Git](https://github.com/dangtranhuu/images/blob/main/angurvad/github/session1/caidat.png?raw=true)
+![Cài Git](https://github.com/theanishtar/images/blob/main/angurvad/github/session1/caidat.png?raw=true)
 
 Khi nào *click chuột phải* và thấy 2 dòng này thì đã cài **Git** thành công
 
 
- <img src="https://github.com/dangtranhuu/images/blob/main/angurvad/github/session1/09d15404acfc79a220ed.jpg?raw=true" title="" alt="Professor Male.png" width="300">
+ <img src="https://github.com/theanishtar/images/blob/main/angurvad/github/session1/09d15404acfc79a220ed.jpg?raw=true" title="" alt="Professor Male.png" width="300">
 
 ## Tạo tài khoản GitHub
 
@@ -49,7 +49,7 @@ Khi tạo xong tiến hành đăng nhập vào GitHub luôn nhé
 
 **Bước 1: Click chuột phải vào màn hình và chọn ==Git Bash Here==**
 
-![Bash Git](https://github.com/dangtranhuu/images/blob/main/angurvad/github/session1/ab23d3822f7afa24a36b.jpg?raw=true)
+![Bash Git](https://github.com/theanishtar/images/blob/main/angurvad/github/session1/ab23d3822f7afa24a36b.jpg?raw=true)
 
 **Bước 2: Tiến hành gõ lần lượt các lệnh sau**
 
@@ -67,7 +67,7 @@ Thay thế các từ sau:
 
 :::
 
-![Bash Git](https://github.com/dangtranhuu/images/blob/main/angurvad/github/session1/dangnhap.png?raw=true)
+![Bash Git](https://github.com/theanishtar/images/blob/main/angurvad/github/session1/dangnhap.png?raw=true)
 
 **Bước 3: Kiểm tra đã đăng nhập thành công hay chưa**
 
@@ -79,7 +79,7 @@ $ git config --list
 
 Nếu dữ liệu hiện ra như sau (và đúng với thông tin tài khoản GitHub của bạn) thì đã đăng nhập thành công!
 
-![Bash Git](https://github.com/dangtranhuu/images/blob/main/angurvad/github/session1/list.png?raw=true)
+![Bash Git](https://github.com/theanishtar/images/blob/main/angurvad/github/session1/list.png?raw=true)
 
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/RV_jojt_2bo?si=KhYiTBJdNeHYFfMa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
